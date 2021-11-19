@@ -1,0 +1,16 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "Hello World!"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "save": "^2.4.0"
+  }
+}
